@@ -69,4 +69,5 @@ swiftmailer:
 easy_admin:
     entities:
         - BlogBundle\Entity\Article
+        - BlogBundle\Entity\Comment
 
